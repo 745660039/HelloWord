@@ -1,2 +1,4 @@
 # HelloWord
-public 
+public void hello(){
+   System.out.print("hello");
+}
